@@ -85,6 +85,4 @@ hobbies:
 
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/HassanUmarr/blob/output/github-contribution-grid-snake.svg)
-
 
