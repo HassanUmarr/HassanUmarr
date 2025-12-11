@@ -12,7 +12,7 @@
   <a href="mailto:umarm@uoguelph.ca">
     <img height="50" src="https://www.shareicon.net/download/2017/02/01/877521_media_512x512.png"/>
   </a>
- 
+ <img src="https://img.shields.io/badge/Open%20to%20Work-%23success?style=for-the-badge&color=28a745" height="700"/>
 </p>
 
 <p align="center">
