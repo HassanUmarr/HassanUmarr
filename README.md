@@ -25,7 +25,7 @@
 
 ```yaml
 name: "Hassan Umar"
-status: "Open to Work — Software Engineering, Backend Dev, Mobile Dev"
+status: "Open to Work — Software Engineering, Backend Dev, Mobile Dev, Product Management"
 education: "Bachelor of Computing (Computer Science, Co-op)"
 school: "University of Guelph"
 year: "Third Year"
