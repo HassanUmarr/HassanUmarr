@@ -37,7 +37,7 @@ interests:
   - mobile development (Swift)
   - full-stack applications
 currently_learning:
-  - advanced C programming
+  - Analyzing the limits of computation
   - Swift & iOS development
   - data structures & algorithms
 hobbies:
